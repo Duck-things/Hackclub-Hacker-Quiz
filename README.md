@@ -14,7 +14,7 @@ no cap this quiz is lowkey accurate 😭
 ---
 
 ## Disclaimer
-is you are too lazy (lw like me) to install everything, just go to this link ---> hackclub-hacker-quiz.vercel.app
+is you are too lazy (lw like me) to install everything, just go to this link ---> [HACKER-QUIZ](hackclub-hacker-quiz.vercel.app)
 Its the quiz, its a free domain I got from Vercel (😂😂)
 
 ---
