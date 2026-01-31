@@ -51,7 +51,7 @@ then open http://localhost:5173 and BOOM you're in 🎉
 
 ---
 
-## 🌐 DEPLOY TO VERCEL (its free btw)
+## DEPLOY TO VERCEL (its free btw)
 
 ok so vercel is literally the easiest thing ever:
 
@@ -78,7 +78,7 @@ vercel --prod
 
 ---
 
-## 🛠️ TECH STACK
+## TECH STACK
 
 - **React** - because we're not savages
 - **Vite** - fast af boiii
@@ -87,7 +87,7 @@ vercel --prod
 
 ---
 
-## 📁 PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 ```
 hackclub-hacker-quiz/
@@ -102,7 +102,7 @@ hackclub-hacker-quiz/
 
 ---
 
-## 🤝 WANNA CONTRIBUTE?
+## WANNA CONTRIBUTE?
 
 yes please!! here's how:
 
@@ -123,7 +123,7 @@ yes please!! here's how:
 
 ---
 
-## 📜 LICENSE
+## LICENSE
 
 MIT - do whatever you want with it idc
 
@@ -140,5 +140,5 @@ if you're not in hack club yet WHAT ARE YOU DOING go join the slack rn: https://
 <p align="center">
   <img src="https://assets.hackclub.com/flag-orpheus-top.svg" height="100">
   <br>
-  <em>now go ship something cool 🚢</em>
+  <em>now go ship something cool </em>
 </p>
